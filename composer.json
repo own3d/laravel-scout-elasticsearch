@@ -1,7 +1,6 @@
 {
     "name": "own3d/laravel-scout-elasticsearch",
     "description": "Search among multiple models with ElasticSearch and Laravel Scout",
-    "version": "5.0.0",
     "keywords": [
         "laravel",
         "scout",
