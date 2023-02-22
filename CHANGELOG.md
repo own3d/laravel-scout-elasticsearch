@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/)
 
 ## [Unreleased]
 
+## [5.0.0] - 2021-05-13
+### Added
+-  PHP 8 Support
+-  Laravel Scout 9 Support
+
 ## [4.0.6] - 2021-04-21
 ### Fixed
 -  Hot fix for https://github.com/matchish/laravel-scout-elasticsearch/issues/160
